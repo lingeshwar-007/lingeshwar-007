@@ -59,16 +59,6 @@ I am a Computer Science and Engineering student building practical experience in
 ~~~text
 ~/lingeshwar/
 │
-├── 📁 cybersecurity/
-│   ├── network-security
-│   ├── web-security
-│   ├── penetration-testing
-│   ├── digital-forensics
-│   └── iot-security
-│
-├── 📁 projects/
-│   └── GuardSpot
-│
 ├── 📁 ctf/
 │   ├── cryptography
 │   ├── web-exploitation
