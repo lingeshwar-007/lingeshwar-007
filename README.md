@@ -1,5 +1,5 @@
 <div align="center">
- # 🐉 LINGESHWAR A
+  🐉 LINGESHWAR A
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=root%40lingeshwar%3A~%23+whoami;LINGESHWAR+A;Cybersecurity+Student+%7C+CTF+Player;Network+Security+%7C+Linux+Enthusiast;Keep+Learning.+Keep+Building.+Keep+Securing." />
 
